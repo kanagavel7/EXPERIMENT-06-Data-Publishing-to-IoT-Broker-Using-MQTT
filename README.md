@@ -95,7 +95,7 @@ client.disconnect()
 
  ## Simulation Screenshots:
 
-![Uploading Screenshot 2025-11-19 183034.png…]()
+<img width="1647" height="874" alt="Screenshot 2025-11-19 183034" src="https://github.com/user-attachments/assets/594f31a4-18c1-4d57-b28d-8db097215d76" />
 
  ## Results:
 The data was successfully published to the MQTT broker. The experiment demonstrated how to use the MQTT protocol to transfer data to an IoT broker, enabling remote communication between devices or applications. The message was confirmed to be received by the topic, and this communication can be extended to more complex IoT systems.
